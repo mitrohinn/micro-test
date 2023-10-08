@@ -1,0 +1,9 @@
+E:\micro-youtube\product-service\src\main\java\com\example\productservice\dto\ProductRequest.java
+E:\micro-youtube\product-service\src\main\java\com\example\productservice\dto\ProductResponse.java
+E:\micro-youtube\product-service\src\main\java\com\example\productservice\repository\ProductRepo.java
+E:\micro-youtube\product-service\src\main\java\com\example\productservice\model\Product.java
+E:\micro-youtube\product-service\src\main\java\com\example\productservice\ProductServiceApplication.java
+E:\micro-youtube\product-service\src\main\java\com\example\productservice\service\mapper\ProductMapper.java
+E:\micro-youtube\product-service\src\main\java\com\example\productservice\service\ProductService.java
+E:\micro-youtube\product-service\src\main\java\com\example\productservice\service\ProductServiceImp.java
+E:\micro-youtube\product-service\src\main\java\com\example\productservice\controller\ProductController.java

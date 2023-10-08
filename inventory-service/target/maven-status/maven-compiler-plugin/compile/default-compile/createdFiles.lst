@@ -1,0 +1,7 @@
+com\example\inventoryservice\service\mapper\InventoryMapper.class
+com\example\inventoryservice\dto\InventoryResponse.class
+com\example\inventoryservice\service\InventoryService.class
+com\example\inventoryservice\InventoryServiceApplication.class
+com\example\inventoryservice\repository\InventoryRepo.class
+com\example\inventoryservice\controller\InventoryController.class
+com\example\inventoryservice\model\Inventory.class
